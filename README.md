@@ -1,2 +1,0 @@
-# Circular-Progressbar
-Circular Progressbar
